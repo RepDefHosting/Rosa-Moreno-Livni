@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Rosa Moreno-Livni
+jobTitle: Business Development
+location: San Francisco, CA US
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  src: /img/rosa-e.-moreno-livni-institutional-business-development-professional.png
+  alt: Rosa E. Moreno-Livni - Institutional Business Development Professional
+siteUrl: https://www.rosamoreno-livni.me/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/rmoren
     label: Visit
     show: true
   pinterest:
