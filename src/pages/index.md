@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Client's Name
+pageTitle: Rosa Moreno-Livni
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,12 +12,13 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/naturehero.png
-  alt: Hero Image for home page
+  src: /img/businesshero1.png
+  alt: Rosa E. Moreno-Livni
   caption: null
 header: Client Name
-metaDescription: First paragraph of Clients Bio. That would meet the character
-  count range, and have the clients name in the Meta Data
+metaDescription: "Rosa E. Moreno-Livni is an institutional business development
+  professional focused on institutional capital formation for small and emerging
+  investment managers across public and private market strategies. "
 published: true
 profileButton:
   link: /profile
@@ -32,4 +33,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-First paragraph of clients bio. And feel free to link clients name out to different **[blog sites](google.com)**
+Rosa E. Moreno-Livni is an institutional business development professional focused on institutional capital formation for small and emerging investment managers across public and private market strategies. Moreno-Livni works with the investment teams and investment consultants of endowment and foundation pools of assets; as well as the defined benefit channel (public plans, corporate plans, health care plans, insurance plans). MorenoLivni leads fundraising strategy and pipeline development to help investment managers expand their institutional investor base thereby growing their assets under management. MorenoLivni currently serves as strategic advisor to a digital infrastructure manager with $2B in assets under management.
