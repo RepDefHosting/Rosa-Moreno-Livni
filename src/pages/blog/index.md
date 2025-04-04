@@ -3,9 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: A blog is a type of website or online platform where
-  individuals or groups regularly post content, typically in the form of
-  articles, diary entries, or commentary on various topics.
+metaDescription: "Moreno-Livni holds an MA and an MSc from Johns Hopkins School
+  of Advanced International Studies (SAIS), where she founded the Debating
+  Society; and the London School of Economics (respectively). "
 published: true
 schemaType: WebPage
 header: Blog
