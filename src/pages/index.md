@@ -34,3 +34,6 @@ schemaType: WebPage
 showRecentPosts: false
 ---
 Rosa E. Moreno-Livni is an institutional business development professional focused on institutional capital formation for small and emerging investment managers across public and private market strategies. Moreno-Livni works with the investment teams and investment consultants of endowment and foundation pools of assets; as well as the defined benefit channel (public plans, corporate plans, health care plans, insurance plans). MorenoLivni leads fundraising strategy and pipeline development to help investment managers expand their institutional investor base thereby growing their assets under management. MorenoLivni currently serves as strategic advisor to a digital infrastructure manager with $2B in assets under management.
+
+* **[I﻿nterview](https://www.principalpost.com/in-brief/rosa-moreno-livni)**
+* **[I﻿deamensch](https://ideamensch.com/rosa-moreno/)**
